@@ -1,0 +1,42 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.conda
+
+# working directory
+.working_dir/
+.test/
+video_database/
+Dataset/
+reports/
+*.wav
+output*
+Visulization/
+.vscode/
+.CLAUDE.md
+exp/
+.claude/
+exp*
+test*
+paper_results/
+src/video/preprocess/AutoShot
+src/video/preprocess/transnetv2_pytorch
+decord/
+resource.superpowers/
+exp_video_database/
+exp/
+resource/audio/*
+resource/video/*
+resource/subtitle/*
+
+!resource/audio/.gitkeep
+!resource/video/.gitkeep
+!resource/subtitle/.gitkeep
+src/config_my.py

@@ -1,0 +1,44 @@
+# Core pipeline
+numpy
+torch==2.8.0
+decord==0.6.0
+scenedetect==0.6.7.1
+av
+Pillow
+tqdm
+litellm
+pydantic
+sentence-transformers
+scikit-learn
+opencv-python-headless
+
+# Audio pipeline
+soundfile
+scipy
+audioread
+madmom
+aubio
+python-dotenv
+tenacity
+
+# Web / interactive apps
+streamlit
+gradio
+
+# ASR backends
+pywhispercpp
+pyannote.audio
+
+# Utility modules used by optional helpers under src/utils and src/audio
+requests
+packaging
+torchvision
+qwen-omni-utils
+
+# Optional backends / visualization helpers kept in the repo
+einops
+ffmpeg-python
+matplotlib
+
+# External system dependency:
+# ffmpeg must be installed and available in PATH.
