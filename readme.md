@@ -10,7 +10,7 @@
 
 **🎬 Your personal editor for turning hours of footage into cinematic montages.**
 
-[![arXiv](https://img.shields.io/badge/arXiv-paper-b31b1b.svg)](https://arxiv.org/abs/2506.08412)
+[![arXiv](https://img.shields.io/badge/arXiv-paper-b31b1b.svg)](https://arxiv.org/abs/2603.29664)
 [![GitHub Stars](https://img.shields.io/github/stars/GVCLab/CutClaw?style=social)](https://github.com/GVCLab/CutClaw)
 
 <p align="center">
@@ -269,11 +269,11 @@ python render/render_video.py \
 
 ## ⭐ Citation
 If you find CutClaw useful for your research, welcome to cite our work using the following BibTeX:
-<!-- ```bibtex
-@article{li2025personalive,
-  title={PersonaLive! Expressive Portrait Image Animation for Live Streaming},
-  author={Li, Zhiyuan and Pun, Chi-Man and Fang, Chen and Wang, Jue and Cun, Xiaodong},
-  journal={arXiv preprint arXiv:2512.11253},
-  year={2025}
+ ```bibtex
+@article{cutclaw,
+  title={CutClaw: Agentic Hours-Long Video Editing via Music Synchronization},
+  author={Shifang Zhao, Yihan Hu, Ying Shan, Yunchao Wei, Xiaodong Cun},
+  journal={arXiv preprint arXiv:2603.29664},
+  year={2026}
 }
-``` -->
+``` 
