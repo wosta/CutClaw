@@ -8,10 +8,10 @@
 
 ## 🦞CutClaw: Agentic Hours-Long Video Editing via Music Synchronization
 
-**🎬 Your personal editor for turning hours of footage into cinematic montages.**
+#### <a href='https://zzsf11.github.io/'>Shifang Zhao</a> · <a href='https://scholar.google.com/citations?hl=zh-CN&user=UP2IgWIAAAAJ'>Yihan Hu</a> · <a href='https://scholar.google.com/citations?user=4oXBp9UAAAAJ&hl=zh-CN'>Ying Shan</a> · <a href='https://scholar.google.com/citations?user=qL9Csv0AAAAJ&hl=zh-CN'>Yunchao Wei</a> · <a href='http://vinthony.github.io/'>Xiaodong Cun</a> 
+###### Beijing Jiaotong University · GVC Lab, Great Bay University · Tencent ARC Lab
 
-[![arXiv](https://img.shields.io/badge/arXiv-paper-b31b1b.svg)](https://arxiv.org/abs/2603.29664)
-[![GitHub Stars](https://img.shields.io/github/stars/GVCLab/CutClaw?style=social)](https://github.com/GVCLab/CutClaw)
+**🎬 Your personal editor for turning hours of footage into cinematic montages.**
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎞️_Hours--Long_Footage-1f6feb?style=flat-square" alt="Hours-Long Footage" />
@@ -22,8 +22,10 @@
 </p>
 
 <p>
-	<a href="readme.md"><img src="https://img.shields.io/badge/English-1a1a2e?style=for-the-badge"></a>
-    <a href="readme_zh.md"><img src="https://img.shields.io/badge/中文版-1a1a2e?style=for-the-badge"></a>
+	<a href="readme.md"><img src="https://img.shields.io/badge/English-1a1a2e"></a>
+    <a href="readme_zh.md"><img src="https://img.shields.io/badge/中文版-1a1a2e"></a>
+	<a href="https://arxiv.org/abs/2603.29664"><img src="https://img.shields.io/badge/arXiv-paper-b31b1b.svg"></a>
+	<a href="https://github.com/GVCLab/CutClaw"><img src="https://img.shields.io/github/stars/GVCLab/CutClaw?style=social"></a>
 </p>
 
 [Overview](#-overview) • [Roadmap](#-roadmap) • [Features](#-key-features) • [Gallery](#️-gallery) • [Quick Start](#-quick-start) • [Troubleshooting](#️-troubleshooting) • [Citation](#-citation) • [Star History](#-star-history)
